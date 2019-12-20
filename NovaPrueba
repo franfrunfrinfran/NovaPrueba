@@ -35,6 +35,6 @@ public class AwtFlow extends Frame
 		
 		new AwtFlow();
 	}
-	//Fin del Main
+	
 }
 //Fin de la Clase
