@@ -28,13 +28,11 @@ public class AwtFlow extends Frame
 		
 		setVisible(true);
 	}
-	//Fin del Constructor
-	//Método Main. Es el método que se ejecutará en primer
-	//lugar al ejecutarse la aplicación
+	
 	public static void main(String[] args)
 	{
 
-		//Crear una instancia u objeto de nuestra Clase AwtFlow
+		
 		new AwtFlow();
 	}
 	//Fin del Main
